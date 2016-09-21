@@ -1,0 +1,1 @@
+This is the creation of a touchable stoplight with vanilla JavaScript DOM manipulation
